@@ -1,0 +1,13 @@
+{
+	"main": "www/index.html",
+	"name": "Duplachi Corneliu",
+	"description": "Duplachi Corneliu",
+	"window": {
+		"title": "Lucrarea de an",
+    "icon": "www/icon.png",
+		"toolbar"	: false, 
+		"frame"		: true,  
+		"width"  	: 800,
+		"height"	: 600
+	}
+}
